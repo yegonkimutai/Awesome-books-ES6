@@ -1,4 +1,5 @@
 /* eslint-disable import/prefer-default-export */
+
 export const navigation = () => {
   const formNav = document.querySelector('.form-menu');
   const listNav = document.querySelector('.list-menu');
