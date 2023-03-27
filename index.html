@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./index.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap" rel="stylesheet" />
+    <title>Awesome books</title>
+  </head>
+  <body>
+    <nav>
+      <a href="">Awesome Books</a>
+      <ul>
+        <li><a href="#list-menu" data-id="list-menu" class="list-menu">List</a></li>
+        <li><a href="#form-menu" data-id="form-menu" class="form-menu">Add new</a></li>
+        <li><a href="#contact-menu" data-id="contact-menu" class="contact-menu">Contact</a></li>
+      </ul>
+    </nav>
+    <h6 id="current-date"></h6>
+
+    <section id="books" class="books list-menu">
+      <h1>All awesome Books</h1>
+      <div class="bookList"></div>
+    </section>
+
+    <section class="form form-menu">
+      <div class="main-form">
+        <form action="#">
+          <hr />
+          <h2>Add a new Book</h2>
+          <div>
+            <input class="title" type="text" placeholder="Title" />
+          </div>
+          <div>
+            <input class="author" type="text" placeholder="Author" />
+          </div>
+          <div class="add-btn">
+            <button type="submit">Add</button>
+          </div>
+        </form>
+      </div>
+    </section>
+
+    <div class="contact contact-menu">
+      <h2>Contact information</h2>
+      <p>Do you have any questions or you just want to say "Hello"?</p>
+      <p>You can reach out to us!</p>
+      <ul>
+        <li>Our email: mail@mail.com</li>
+        <li>Our phone number: 080193490183</li>
+        <li>Our address:22, 25439 City, Country</li>
+      </ul>
+    </div>
+    <footer>
+      <p>Copyright ...</p>
+    </footer>
+  </body>
+  <script type="module" src="./index.js"></script>
+</html>
