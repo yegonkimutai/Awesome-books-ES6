@@ -1,4 +1,4 @@
-/* eslint-disable import/prefer-default-export */
+
 
 export const library = () => {
     const title = document.querySelector('.title');
