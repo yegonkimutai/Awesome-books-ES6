@@ -26,7 +26,6 @@ export const library = () => {
             id: 1,
           });
         }
-
         title.value = '';
         author.value = '';
 
