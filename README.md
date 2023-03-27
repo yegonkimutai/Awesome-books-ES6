@@ -27,7 +27,7 @@
 
 # 📖 [Awesome-book-project] <a name="about-project"></a>
 
-**[Awesome-book-project]** is a project creation dynamic list with the use of JavaScript. The project also focusing on adding and removing of list elements from a website.
+**[Awesome-book-project]** is a project creation dynamic list with the use of JavaScript. The project focuses on adding and removing of list elements from a website. In addition, the project focuses on the ES6 syntax to modify and make a clean code by using import and export. Also, the project uses ES6 to modify the date and time of the page.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -36,6 +36,7 @@
 - Javascript
 - HTML-5
 - Linters
+- CSS
 
 <details>
   <summary>Client</summary>
@@ -51,6 +52,8 @@
 - **[Use JavaScript to add and remove a list of books]**
 - **[Use wireframe to modify to look of the page]**
 - **[Build a working navigation system]**
+- **[Create the page using the single page concept]**
+- **[Use ES6 to modify the javaScript code]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,7 +81,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Jeddaa/microverse-books-task.git
+  git clone https://github.com/yegonkimutai/Awesome-books-ES6.git
 ```
 
 ### Install
@@ -86,7 +89,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd microverse-books-task
+  cd awesome-books-ES6
   yarn install
 ```
 
@@ -115,11 +118,6 @@ To run tests, run the following command:
 - Twitter: [@yegonbrian8](https://twitter.com/yegonbrian8)
 - LinkedIn: [Brian Yegon](https://www.linkedin.com/in/brian-yegon-0717a1241/)
 
-👤 Fatihah Oduwole
-
-- GitHub: [@yegonkimutai](https://github.com/jeddaa)
-- Twitter: [@yegonbrian8](https://twitter.com/_jeddaah)
-- LinkedIn: [Brian Yegon](https://www.linkedin.com/in/fatihahoduwole)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
