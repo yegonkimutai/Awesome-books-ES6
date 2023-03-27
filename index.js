@@ -3,11 +3,11 @@ import { library } from './modules/library.js';
 import { navigation } from './modules/nav.js';
 
 const displayCurrent = () => {
-    const now = DateTime.now().toLocaleString(DateTime.DATETIME_FULL);
-    document.getElementById('current-date').textContent = now;
-  };
-  
-  displayCurrent();
-  
-  library();
-  navigation();
+  const now = DateTime.now().toLocaleString(DateTime.DATETIME_FULL);
+  document.getElementById('current-date').textContent = now;
+};
+
+displayCurrent();
+
+library();
+navigation();
