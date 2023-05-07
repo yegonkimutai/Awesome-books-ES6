@@ -181,4 +181,9 @@ form > div {
   footer {
     width: 95vw;
   }
+
+  .contact > p,
+  .contact > ul {
+    width: 80%;
+  }
 }
