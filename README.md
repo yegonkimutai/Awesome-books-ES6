@@ -57,9 +57,12 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🎥 Video Explanation <a name="video-explanation"></a>
+Click <a href="https://www.loom.com/share/7566cef0cedf48cd9d170f6ce3cce801">here</a> for the video explanation about how the app works
+
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](Coming soon)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

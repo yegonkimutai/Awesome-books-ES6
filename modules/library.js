@@ -17,13 +17,13 @@ export const library = () => {
           this.books.push({
             title: title.value,
             author: author.value,
-            id: this.books[this.books.length - 1].id + 1,
+            id: this.books.length + 1,
           });
         } else {
           this.books.push({
             title: title.value,
             author: author.value,
-            id: 1,
+            id: 1
           });
         }
         title.value = '';
